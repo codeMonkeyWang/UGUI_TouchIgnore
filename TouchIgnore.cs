@@ -1,11 +1,3 @@
-//  DUIRayIgnore.cs
-//  Fondle
-//
-//  Created by chuxiang on 09/21/2015.
-//
-//
-
-
 
 using UnityEngine;
 using System.Collections;
