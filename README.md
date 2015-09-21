@@ -1,0 +1,2 @@
+# UGUI_TouchIgnore
+用于使unity 的新UGUI系统中的某个对象可以在点击时被忽略，直接触发下面一层UI的点击事件。
